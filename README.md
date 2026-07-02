@@ -55,30 +55,6 @@ This project answers these questions through data analysis and business intellig
 
 ---
 
-## 📂 Project Structure
-
-```text
-Retail-Intelligence-Platform
-│
-├── data/
-│
-├── notebooks/
-│
-├── sql/
-│
-├── powerbi/
-│
-├── images/
-│
-├── docs/
-│
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
 ## 🔄 Project Workflow
 
 ```text
